@@ -440,6 +440,9 @@ ul {
   .header__top {
     align-items: flex-start;
   }
+  .header__content-images {    
+    padding-bottom: 0;
+  }
 }
 
 @media(max-width: 414px) {
