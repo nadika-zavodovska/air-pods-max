@@ -443,6 +443,9 @@ ul {
   .header__content-images {    
     padding-bottom: 0;
   }
+  .header {
+    min-height: 0;
+  }
 }
 
 @media(max-width: 414px) {
