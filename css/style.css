@@ -444,7 +444,7 @@ ul {
     padding-bottom: 0;
   }
   .header {
-    min-height: 0;
+    min-height: 10vh;
   }
 }
 
